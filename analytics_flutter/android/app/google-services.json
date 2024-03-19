@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993632743511",
+    "project_id": "analytics-practice-6e545",
+    "storage_bucket": "analytics-practice-6e545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993632743511:android:44aefdd4d75d581c9bf312",
+        "android_client_info": {
+          "package_name": "com.example.analytics_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPwL7OjT18iGur3kxs3gNs5UzfZoQ9Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
